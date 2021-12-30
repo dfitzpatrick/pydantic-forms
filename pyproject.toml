@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pydantic-forms"
+version = "0.1.0"
+description = ""
+authors = ["Derek Fitzpatrick <dfitz.murrieta@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^1.8.2"
+python-multipart = "^0.0.5"
+
+[tool.poetry.dev-dependencies]
+pytest-asyncio = "^0.16.0"
+Sphinx = "^4.3.2"
+sphinx-material = "^0.0.35"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

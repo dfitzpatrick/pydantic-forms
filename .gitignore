@@ -1,0 +1,7 @@
+*.json
+*.py[cod]
+*.log
+*.egg-info
+.idea/
+docs/build
+*.buildinfo
