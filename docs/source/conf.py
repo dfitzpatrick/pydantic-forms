@@ -32,7 +32,7 @@ html_sidebars = {
 project = 'pydantic-forms'
 copyright = '2021, Derek Fitzpatrick'
 author = 'Derek Fitzpatrick'
-
+master_doc = 'index'
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'
 
