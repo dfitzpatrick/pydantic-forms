@@ -1,1 +1,2 @@
 sphinx-material
+git+git://github.com/dfitzpatrick/pydantic-forms.git#egg=pydantic-forms
