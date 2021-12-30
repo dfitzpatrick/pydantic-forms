@@ -14,6 +14,9 @@ for you. This library is NOT one of those.
 * HTML generation is up to the user. Create your templates as simple or
   as complex as you would like. Utilize macros for complex error display.
 
+**Full Documentation: `ReadTheDocs <https://pydantic-forms.readthedocs.io/en/latest/>`_
+
+
 Examples
 ===========
 FastAPI example
